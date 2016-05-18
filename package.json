@@ -1,0 +1,23 @@
+{
+  "name": "node-spintax",
+  "version": "1.0.4",
+  "description": "Spintax support for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Slava Fomin II <s.fomin@betsol.ru>",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "chai": "^3.5.0",
+    "dirty-chai": "^1.2.2"
+  },
+  "keywords": [
+    "spintax",
+    "unspin"
+  ]
+}
